@@ -1,2 +1,1 @@
-# ArghadeepMitra
-Portfolio website
+# Resume
